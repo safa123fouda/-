@@ -1,0 +1,7 @@
+C:\Users\Hi\Desktop\صراف الي\صراف الي\bin\Debug\صراف الي.exe.config
+C:\Users\Hi\Desktop\صراف الي\صراف الي\bin\Debug\صراف الي.exe
+C:\Users\Hi\Desktop\صراف الي\صراف الي\bin\Debug\صراف الي.pdb
+C:\Users\Hi\Desktop\صراف الي\صراف الي\obj\Debug\صراف الي.csproj.AssemblyReference.cache
+C:\Users\Hi\Desktop\صراف الي\صراف الي\obj\Debug\صراف الي.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Desktop\صراف الي\صراف الي\obj\Debug\صراف الي.exe
+C:\Users\Hi\Desktop\صراف الي\صراف الي\obj\Debug\صراف الي.pdb
